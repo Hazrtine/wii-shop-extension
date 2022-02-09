@@ -9,4 +9,4 @@ The extension only requires two permissions: [Tabs](https://developer.mozilla.or
 
 [![Download for Chrome](https://corbin.io/img/chrome-button.png)](https://chrome.google.com/webstore/detail/camjnljbmplngaalikoefoibonimfhkd) [![Download for Firefox](https://corbin.io/img/firefox-button.png)](https://addons.mozilla.org/en-US/firefox/addon/wii-shop-channel/)
 
-**This extension is not developed by, or affiliated with, Nintendo in any way.**
+**This extension is not developed by, or affiliated with, Nintendo in any way. Except if they want to.**
